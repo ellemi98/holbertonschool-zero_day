@@ -1,0 +1,10 @@
+#Proyect 2
+
+Basic emacs commands
+- Opening C-x C-f
+- Saving C-x C-s
+- Cutting C-k
+- Pasting C-y
+- Searching C-s
+- Undoing C-/  C-x u C-_
+- Quitting C-x C-c
