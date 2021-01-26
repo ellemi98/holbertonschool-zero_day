@@ -1,6 +1,7 @@
 #Comandos basicos de Vi
 - Inserting  i
-- Cutting yy
+- Paste yy
+- Cutting dd
 - Pasting p
 - Undoing u
 - Exiting :q!<Return>
